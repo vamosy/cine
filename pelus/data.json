@@ -55,6 +55,12 @@
     ],
     
     "friends" : [
-        
+        {
+            "name" : "IPVanish VPN Android ",
+            "ico" : "https://i.gyazo.com/6dc57a840fb93d7adae7717bda7fa06c.png",
+            "link" : "https://smrturl.co/o/132220/53282419?s1=",
+            "cat" : "VPN Android App",
+            "video" : ""
+        }
     ]
 }
