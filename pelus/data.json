@@ -4,7 +4,7 @@
             "tmdb_keys" : "345246bad6792619d62d261f66c1385d,98892a77b0cc1356d5872cf3cbbc5dd8",
             
             "int_interval" : 2,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "8513c54f-8c2d-4637-b567-dafbf134dc11",
             "network" : "admob",
@@ -13,10 +13,10 @@
             "unity_int" : "",
             "unity_ban" : "",
             
-            "admob_ban" : "ca-app-pub-3163521243993433/8087935430",
-            "admob_native" : "ca-app-pub-3163521243993433/3046242187",
-            "admob_int" : "ca-app-pub-3163521243993433/5863977211",
-            "admob_rewarded" : "ca-app-pub-3163521243993433/1924732202",
+            "admob_ban" : "ca-app-pub-3629815529824806/6053764039",
+            "admob_native" : "ca-app-pub-3629815529824806/2907929784",
+            "admob_int" : "ca-app-pub-3629815529824806/4740682369",
+            "admob_rewarded" : "ca-app-pub-3629815529824806/9281766446",
 
             "yandex_ban" : "",
             "yandex_native" : "",
